@@ -1,2 +1,2 @@
 # GameSheet
-A plugin for Unity Tools
+A plugin for Unity To Manager Data Sheets

@@ -13,15 +13,16 @@ GameSheet Runtime API
 ## GameSheetData
 ### Fomula(under development)
 
-- Bulleted
-- List
+- Row
+- Column
 
-1. Numbered
-2. List
+1. GoogleSheet
+2. Excel
+3. CSV
 
-**Bold** and _Italic_ and `Code` text
+**New** seetings of _First N Row_ set `Column Type` of data
 
-[Link](url) and ![Image](src)
+PRETEND USED:[Link](url) and ![Image](src)
 ```
 
 For more details see [Document in GameSheet Project](https://github.com/avi9111/GameSheet).

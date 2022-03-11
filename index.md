@@ -11,7 +11,7 @@ GameSheet Runtime API
 
 # IndexHelper
 ## GameSheetData
-### Fomula(under development)
+### Formula(under development)
 
 - Row
 - Column
